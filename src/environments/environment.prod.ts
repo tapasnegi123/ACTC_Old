@@ -5,6 +5,7 @@ export const environment = {
    */
   apiEndPoint: "http://192.168.23.253:8034/api/",
   test:'',
+  test2:'',
   /**
    * Public (staging)
    */
